@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "actual-open-ai"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/marco-jeffrey
+      - icon: twitter
+        href: https://twitter.com/tomcocobrico
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+
+
+

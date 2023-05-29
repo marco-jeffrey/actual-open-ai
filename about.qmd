@@ -1,0 +1,16 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/tomcocobrico
+    - icon: github
+      text: Github
+      href: https://github.com/marco-jeffrey
+
+---
+
+Hey there! I am Marco, a data scientist from nothern Germany. Follow me here on my life long journey in everything data science / machine learning / programming. I like to share what I am learning in an easily accessable way. Currently most interested in anything related to NLP. Besides that I also like to play tennis and study mandarin and chess in my free time. If you find any errors or have further questions feel free to open an issue on the github :)
