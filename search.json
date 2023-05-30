@@ -14,11 +14,18 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "posts/how-to-quarto/how-to-quarto.html",
+    "href": "posts/how-to-quarto/how-to-quarto.html",
+    "title": "How to quarto?",
+    "section": "",
+    "text": "How to quarto?\nThis is a small tutorial on how to get started with using quarto for create your very own blog &lt;3"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "most recent posts",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 29, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 26, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "How to quarto?\n\n\n\n\n\n\n\ncode\n\n\nblogging\n\n\nsoftware\n\n\n\n\n\n\n\n\n\n\n\nMay 30, 2023\n\n\nMarco Jeffrey\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMay 29, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMay 26, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
